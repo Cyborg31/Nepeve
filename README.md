@@ -1,6 +1,6 @@
 # nepeve
 
-A new Flutter project.
+An android app for booking tickets of musical events.
 
 ## Getting Started
 
