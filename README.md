@@ -2,7 +2,7 @@
 
 An android app for booking tickets of musical events.
 
-![](20201031_204207_edited.gif)
+
 
 ## Getting Started
 
